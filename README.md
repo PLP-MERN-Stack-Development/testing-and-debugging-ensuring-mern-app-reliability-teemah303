@@ -283,7 +283,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Built with ❤️ using React, Node.js, Socket.io, and comprehensive testing strategies*
 
 </div>
-```
-```
 
-Your GitHub is about to get a MAJOR upgrade! 🚀
